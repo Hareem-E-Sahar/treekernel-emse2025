@@ -1,0 +1,12 @@
+/home/hareem/treekernel-emse2025/code/rq3/tf-idf/size-evaluation/es-code/src/main/java/sample/evaluation/elasticsearch/MoreLikeThisSearch.java
+/home/hareem/treekernel-emse2025/code/rq3/tf-idf/size-evaluation/es-code/src/main/java/sample/evaluation/util/Util.java
+/home/hareem/treekernel-emse2025/code/rq3/tf-idf/size-evaluation/es-code/src/main/java/sample/evaluation/util/ScoreUtils.java
+/home/hareem/treekernel-emse2025/code/rq3/tf-idf/size-evaluation/es-code/src/main/java/sample/evaluation/util/MAPCalculator.java
+/home/hareem/treekernel-emse2025/code/rq3/tf-idf/size-evaluation/es-code/src/main/java/sample/evaluation/elasticsearch/SimilarityMap.java
+/home/hareem/treekernel-emse2025/code/rq3/tf-idf/size-evaluation/es-code/src/main/java/sample/evaluation/elasticsearch/ElasticsearchBigCloneEval.java
+/home/hareem/treekernel-emse2025/code/rq3/tf-idf/size-evaluation/es-code/src/main/java/sample/evaluation/elasticsearch/ESFileIndexer.java
+/home/hareem/treekernel-emse2025/code/rq3/tf-idf/size-evaluation/es-code/src/main/java/sample/evaluation/util/MRRCalculator.java
+/home/hareem/treekernel-emse2025/code/rq3/tf-idf/size-evaluation/es-code/src/main/java/sample/evaluation/util/FileMapper.java
+/home/hareem/treekernel-emse2025/code/rq3/tf-idf/size-evaluation/es-code/src/main/java/sample/evaluation/util/FileSampler2.java
+/home/hareem/treekernel-emse2025/code/rq3/tf-idf/size-evaluation/es-code/src/main/java/sample/evaluation/util/PrecisionCalculator.java
+/home/hareem/treekernel-emse2025/code/rq3/tf-idf/size-evaluation/es-code/src/main/java/sample/evaluation/util/ReferenceClones.java

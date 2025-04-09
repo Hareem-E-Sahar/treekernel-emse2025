@@ -1,0 +1,12 @@
+sample/evaluation/util/MAPCalculator.class
+sample/evaluation/elasticsearch/SimilarityMap.class
+sample/evaluation/util/ScoreUtils.class
+sample/evaluation/util/FileSampler2.class
+sample/evaluation/util/PrecisionCalculator.class
+sample/evaluation/util/MRRCalculator.class
+sample/evaluation/util/ReferenceClones.class
+sample/evaluation/util/FileMapper.class
+sample/evaluation/util/Util.class
+sample/evaluation/elasticsearch/MoreLikeThisSearch.class
+sample/evaluation/elasticsearch/ESFileIndexer.class
+sample/evaluation/elasticsearch/ElasticsearchBigCloneEval.class
