@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(ParameterizedType(SimpleType(SimpleName:Channel))(SimpleType(SimpleName:Throwable)))(SimpleName:getExceptionChannel)(Block(ReturnStatement(MethodInvocation(SimpleName:getChannel)(METHOD_INVOCATION_ARGUMENTS(SimpleName:EXCEPTION_CHANNEL_ID))))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(ParameterizedType(SimpleType(SimpleName:Set))(SimpleType(SimpleName:String)))(SimpleName:getChannelNamesToResetDaily)(Block(ReturnStatement(SimpleName:channelNamesToResetDaily))))))

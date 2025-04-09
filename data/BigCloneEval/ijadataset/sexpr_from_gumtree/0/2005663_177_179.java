@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:private)(PrimitiveType:void)(SimpleName:badMode)(Block(ThrowStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:Py))(SimpleName:ValueError)(METHOD_INVOCATION_ARGUMENTS(StringLiteral:<STR>))))))))

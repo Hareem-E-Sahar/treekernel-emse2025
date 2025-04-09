@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:final)(SimpleType(SimpleName:DatagramChannel))(SimpleName:getChannel)(Block(ReturnStatement(SimpleName:channel))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:int)(SimpleName:getChannelCountSP)(Block(ReturnStatement(QualifiedName:_channelWrappersSP.length))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:long)(SimpleName:totalDuration)(Block(ReturnStatement(InfixExpression(SimpleName:readDuration)(INFIX_EXPRESSION_OPERATOR:+)(SimpleName:writeDuration)))))))

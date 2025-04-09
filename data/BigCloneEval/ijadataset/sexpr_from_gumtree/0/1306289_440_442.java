@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:OutputStream))(SimpleName:getOutputStream)(SimpleType(SimpleName:IOException))(Block(ThrowStatement(ClassInstanceCreation(SimpleType(SimpleName:IOException))(StringLiteral:<STR>)))))))

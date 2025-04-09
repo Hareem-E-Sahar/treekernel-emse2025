@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleName:IndexerThread)(SingleVariableDeclaration(SimpleType(SimpleName:IndexWriter))(SimpleName:writer))(Block(ExpressionStatement(Assignment(FieldAccess(ThisExpression)(SimpleName:writer))(ASSIGNMENT_OPERATOR:=)(SimpleName:writer)))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:OpenSearchRssChannel))(SimpleName:getChannel)(Block(ReturnStatement(SimpleName:m_channel))))))

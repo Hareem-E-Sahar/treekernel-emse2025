@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(ArrayType(SimpleType(SimpleName:NXTChannelInfo))(Dimension))(SimpleName:getChannelInfos)(Block(ReturnStatement(SimpleName:infos))))))

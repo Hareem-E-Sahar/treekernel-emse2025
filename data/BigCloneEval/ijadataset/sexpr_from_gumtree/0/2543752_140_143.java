@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(NormalAnnotation(SimpleName:XmlElement)(MemberValuePair(SimpleName:name)(StringLiteral:<STR>)))(Modifier:public)(SimpleType(SimpleName:FeedChannel))(SimpleName:getChannel)(Block(ReturnStatement(FieldAccess(ThisExpression)(SimpleName:channel)))))))

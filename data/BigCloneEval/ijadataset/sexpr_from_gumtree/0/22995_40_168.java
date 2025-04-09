@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:private)(Modifier:static)(PrimitiveType:void)(SimpleName:eval)(SingleVariableDeclaration(ArrayType(SimpleType(SimpleName:String))(Dimension))(SimpleName:tokens))(SimpleType(SimpleName:Exception))(Block))))

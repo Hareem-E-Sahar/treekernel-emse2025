@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(Modifier:final)(ArrayType(PrimitiveType:byte)(Dimension))(SimpleName:getPublisher)(Block(ReturnStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:_publisher))(SimpleName:digest)))))))

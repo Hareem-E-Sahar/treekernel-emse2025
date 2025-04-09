@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:private)(PrimitiveType:boolean)(SimpleName:isGraphicalViewer)(Block(ReturnStatement(InstanceofExpression(MethodInvocation(SimpleName:getCurrentViewer))(SimpleType(SimpleName:GraphicalViewer))))))))

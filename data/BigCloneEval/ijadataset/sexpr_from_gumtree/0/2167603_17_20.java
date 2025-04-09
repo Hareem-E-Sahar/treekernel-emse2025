@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleName:HelpDialog)(Block(SuperConstructorInvocation)(ExpressionStatement(Assignment(SimpleName:helpDoc)(ASSIGNMENT_OPERATOR:=)(StringLiteral:<STR>)))))))

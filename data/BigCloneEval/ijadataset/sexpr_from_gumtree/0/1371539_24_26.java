@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:short)(SimpleName:getChannel)(SimpleType(SimpleName:RemoteException))(Block(ReturnStatement(QualifiedName:DataTestApplet.channel))))))

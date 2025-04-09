@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:HttpResponse))(SimpleName:execute)(Block(ReturnStatement(MethodInvocation(SimpleName:execute)(METHOD_INVOCATION_ARGUMENTS(MethodInvocation(SimpleName:getRequest)))))))))

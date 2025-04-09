@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:BufferedImage))(SimpleName:createScreenCapture)(Block(ReturnStatement(MethodInvocation(SimpleName:createScreenCapture)(METHOD_INVOCATION_ARGUMENTS(BooleanLiteral:false))))))))

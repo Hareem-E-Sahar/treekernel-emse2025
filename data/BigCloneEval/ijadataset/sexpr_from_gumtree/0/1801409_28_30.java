@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:protected)(SimpleType(SimpleName:URLConnection))(SimpleName:openConnection)(SingleVariableDeclaration(SimpleType(SimpleName:URL))(SimpleName:url))(Block(ReturnStatement(ClassInstanceCreation(SimpleType(SimpleName:JMSURLConnection))(SimpleName:url)))))))

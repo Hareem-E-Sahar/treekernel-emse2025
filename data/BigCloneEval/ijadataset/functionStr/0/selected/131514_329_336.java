@@ -1,0 +1,9 @@
+public class Test {    private JLabel getChannelL() {
+        if (channelL == null) {
+            channelL = new JLabel();
+            channelL.setText("Channel");
+            channelL.setPreferredSize(new java.awt.Dimension(67, 21));
+        }
+        return channelL;
+    }
+}

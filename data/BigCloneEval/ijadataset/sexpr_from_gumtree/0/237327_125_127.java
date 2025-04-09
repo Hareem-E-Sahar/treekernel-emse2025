@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:private)(SimpleType(SimpleName:TransferDropTargetListener))(SimpleName:createTransferDropTargetListener)(Block(ReturnStatement(ClassInstanceCreation(SimpleType(SimpleName:WsmoTransferDropTargetListener))(MethodInvocation(SimpleName:getGraphicalViewer))))))))

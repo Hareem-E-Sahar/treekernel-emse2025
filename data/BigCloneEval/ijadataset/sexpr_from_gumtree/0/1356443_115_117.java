@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:protected)(ArrayType(PrimitiveType:byte)(Dimension))(SimpleName:getDigestValue)(Block(ReturnStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(FieldAccess(ThisExpression)(SimpleName:_digest)))(SimpleName:digest)))))))

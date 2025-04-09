@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:void)(SimpleName:assertWritable)(Block(IfStatement(SimpleName:readOnly)(ThrowStatement(ClassInstanceCreation(SimpleType(SimpleName:IllegalStateException))(StringLiteral:<STR>))))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(ArrayType(PrimitiveType:byte)(Dimension))(SimpleName:digest)(Block(ReturnStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:md5impl))(SimpleName:digest)))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:int)(SimpleName:readableBytes)(Block(ReturnStatement(ConditionalExpression(MethodInvocation(SimpleName:readable))(InfixExpression(SimpleName:write_index)(INFIX_EXPRESSION_OPERATOR:-)(SimpleName:read_index))(NumberLiteral:0)))))))

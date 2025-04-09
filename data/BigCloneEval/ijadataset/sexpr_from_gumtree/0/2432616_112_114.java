@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:protected)(SimpleType(SimpleName:String))(SimpleName:getTxInfo)(Block(ReturnStatement(InfixExpression(StringLiteral:<STR>)(INFIX_EXPRESSION_OPERATOR:+)(SimpleName:hasReadTx)(StringLiteral:<STR>)(SimpleName:hasWriteTx)))))))

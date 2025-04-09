@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:boolean)(SimpleName:isDisconnected)(Block(ReturnStatement(PrefixExpression(PREFIX_EXPRESSION_OPERATOR:!)(MethodInvocation(METHOD_INVOCATION_RECEIVER(MethodInvocation(SimpleName:getChannel)))(SimpleName:isConnected))))))))

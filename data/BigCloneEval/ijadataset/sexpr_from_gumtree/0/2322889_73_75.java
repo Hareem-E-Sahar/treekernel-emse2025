@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:int)(SimpleName:getChannel)(Block(ReturnStatement(InfixExpression(SimpleName:packedMsg)(INFIX_EXPRESSION_OPERATOR:&)(NumberLiteral:0x0F)))))))

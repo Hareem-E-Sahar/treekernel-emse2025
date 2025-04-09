@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:int)(SimpleName:getChannels)(Block(ReturnStatement(ArrayAccess(SimpleName:CHANNEL_ID)(MethodInvocation(SimpleName:getChannelIndex))))))))

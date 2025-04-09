@@ -1,0 +1,138 @@
+package it.jnrpe.net;
+
+import java.io.ByteArrayOutputStream;
+import java.io.DataInputStream;
+import java.io.DataOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.Random;
+import java.util.zip.CRC32;
+
+/**
+ * This class represent a generic NRPE packet.
+ * 
+ * @author Massimiliano Ziccardi
+ *
+ */
+class CJNRPEProtocolPacket {
+
+    private int m_iCRC = 0;
+
+    private int m_iPacketType = 0;
+
+    private int m_iPacketVersion = 0;
+
+    private int m_iResultCode = 0;
+
+    private byte[] m_vBuffer = new byte[IJNRPEConstants.MAX_PACKETBUFFER_LENGTH];
+
+    private byte[] m_vDummy = new byte[2];
+
+    public int getCRC() {
+        return m_iCRC;
+    }
+
+    public int getPacketType() {
+        return m_iPacketType;
+    }
+
+    public int getPacketVersion() {
+        return m_iPacketVersion;
+    }
+
+    public void setCRC(int iCRC) {
+        m_iCRC = iCRC;
+    }
+
+    protected void setPacketType(int iPacketType) {
+        m_iPacketType = iPacketType;
+    }
+
+    public void setPacketVersion(int iPacketVersion) {
+        m_iPacketVersion = iPacketVersion;
+    }
+
+    public int getResultCode() {
+        return m_iResultCode;
+    }
+
+    public void setResultCode(int iResultCode) {
+        m_iResultCode = iResultCode;
+    }
+
+    /**
+	 * Initialize the object reading the data from the input stream
+	 * @param in
+	 * @throws IOException
+	 */
+    protected void fromInputStream(InputStream in) throws IOException {
+        DataInputStream din = new DataInputStream(in);
+        m_iPacketVersion = din.readShort();
+        m_iPacketType = din.readShort();
+        m_iCRC = din.readInt();
+        m_iResultCode = din.readShort();
+        din.readFully(m_vBuffer);
+        din.readFully(m_vDummy);
+    }
+
+    /**
+	 * Validates the packet CRC
+	 * 
+	 * @throws BadCRCException
+	 */
+    public void validate() throws BadCRCException {
+        ByteArrayOutputStream bout = new ByteArrayOutputStream();
+        DataOutputStream dout = new DataOutputStream(bout);
+        try {
+            dout.writeShort(m_iPacketVersion);
+            dout.writeShort(m_iPacketType);
+            dout.writeInt(0);
+            dout.writeShort(m_iResultCode);
+            dout.write(m_vBuffer);
+            dout.write(m_vDummy);
+            dout.close();
+            byte[] vBytes = bout.toByteArray();
+            CRC32 crcAlg = new CRC32();
+            crcAlg.update(vBytes);
+            if (!(((int) crcAlg.getValue()) == m_iCRC)) throw new BadCRCException("Bad CRC");
+        } catch (IOException e) {
+        }
+    }
+
+    public byte[] toByteArray() {
+        ByteArrayOutputStream bout = new ByteArrayOutputStream();
+        DataOutputStream dout = new DataOutputStream(bout);
+        try {
+            dout.writeShort(m_iPacketVersion);
+            dout.writeShort(m_iPacketType);
+            dout.writeInt(m_iCRC);
+            dout.writeShort(m_iResultCode);
+            dout.write(m_vBuffer);
+            dout.write(m_vDummy);
+            dout.close();
+        } catch (IOException e) {
+        }
+        return bout.toByteArray();
+    }
+
+    public String getStringMessage() {
+        int iZeroIndex = IJNRPEConstants.MAX_PACKETBUFFER_LENGTH - 1;
+        for (int i = 0; i < IJNRPEConstants.MAX_PACKETBUFFER_LENGTH; i++) if (m_vBuffer[i] == 0) {
+            iZeroIndex = i;
+            break;
+        }
+        return new String(m_vBuffer, 0, iZeroIndex);
+    }
+
+    protected void _setMessage(String sMessage) {
+        if (sMessage == null) sMessage = "";
+        System.arraycopy(sMessage.getBytes(), 0, m_vBuffer, 0, Math.min(sMessage.length(), IJNRPEConstants.MAX_PACKETBUFFER_LENGTH));
+        if (sMessage.length() < IJNRPEConstants.MAX_PACKETBUFFER_LENGTH) m_vBuffer[sMessage.length()] = 0;
+    }
+
+    protected void initRandomBuffer() {
+        Random r = new Random(System.currentTimeMillis());
+        r.nextBytes(m_vBuffer);
+        r.nextBytes(m_vDummy);
+    }
+}

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:protected)(SimpleType(SimpleName:IPropertyAccessor))(SimpleName:createPropertyAccessor)(Block(ReturnStatement(ClassInstanceCreation(SimpleType(SimpleName:MethodAccessor))(ThisExpression)(SimpleName:readMethod)(SimpleName:writeMethod)))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:private)(PrimitiveType:void)(SimpleName:screenCaptureButtonActionPerformed)(SingleVariableDeclaration(SimpleType(QualifiedName:java.awt.event.ActionEvent))(SimpleName:evt))(Block(ExpressionStatement(MethodInvocation(SimpleName:createScreenCapture)))))))

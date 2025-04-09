@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:protected)(PrimitiveType:boolean)(SimpleName:isViewerImportant)(SingleVariableDeclaration(SimpleType(SimpleName:EditPartViewer))(SimpleName:viewer))(Block(ReturnStatement(InstanceofExpression(SimpleName:viewer)(SimpleType(SimpleName:GraphicalViewer))))))))

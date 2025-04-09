@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:int)(SimpleName:getChannelId)(SingleVariableDeclaration(SimpleType(SimpleName:String))(SimpleName:channelName))(Block(ReturnStatement(NumberLiteral:0))))))

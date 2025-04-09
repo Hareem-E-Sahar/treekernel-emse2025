@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(ParameterizedType(SimpleType(SimpleName:HashMap))(SimpleType(SimpleName:Integer))(SimpleType(SimpleName:ChannelIdentification)))(SimpleName:getChannels)(Block(ReturnStatement(FieldAccess(ThisExpression)(SimpleName:channels)))))))

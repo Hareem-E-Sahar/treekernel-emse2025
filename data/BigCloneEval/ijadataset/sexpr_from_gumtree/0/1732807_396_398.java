@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:ISelection))(SimpleName:getSelection)(Block(ReturnStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(MethodInvocation(SimpleName:getGraphicalViewer)))(SimpleName:getSelection)))))))

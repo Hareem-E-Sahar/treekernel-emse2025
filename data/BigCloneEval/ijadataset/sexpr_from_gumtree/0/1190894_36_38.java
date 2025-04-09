@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:String))(SimpleName:getWriteUp)(Block(ReturnStatement(CastExpression(SimpleType(SimpleName:String))(MethodInvocation(SimpleName:readProperty)(METHOD_INVOCATION_ARGUMENTS(StringLiteral:<STR>)))))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(ArrayType(SimpleType(SimpleName:String))(Dimension))(SimpleName:getChannelDimTypes)(Block(ReturnStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:reader))(SimpleName:getChannelDimTypes)))))))

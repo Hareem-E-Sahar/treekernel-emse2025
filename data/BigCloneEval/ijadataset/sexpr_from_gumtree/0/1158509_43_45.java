@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:void)(SimpleName:send)(SimpleType(SimpleName:MessagingException))(Block(ExpressionStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:Transport))(SimpleName:send)(METHOD_INVOCATION_ARGUMENTS(SimpleName:message))))))))

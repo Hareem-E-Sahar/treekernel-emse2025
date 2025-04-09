@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:int)(SimpleName:getChannelPressure)(Block(ReturnStatement(PrefixExpression(PREFIX_EXPRESSION_OPERATOR:-)(NumberLiteral:1)))))))

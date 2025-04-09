@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(Modifier:static)(SimpleType(SimpleName:List))(SimpleName:getChannels)(SimpleType(SimpleName:Exception))(Block(ReturnStatement(MethodInvocation(SimpleName:getChannels)(METHOD_INVOCATION_ARGUMENTS(NullLiteral))))))))

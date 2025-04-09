@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:static)(ParameterizedType(SimpleType(SimpleName:Hashtable))(SimpleType(SimpleName:String))(SimpleType(SimpleName:EventChannelStruct)))(SimpleName:getChannelMap)(Block(ReturnStatement(SimpleName:channel_map))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleName:ActionMenuListener)(SingleVariableDeclaration(SimpleType(SimpleName:GraphicalViewer))(SimpleName:viewer))(Block(ExpressionStatement(Assignment(SimpleName:mViewer)(ASSIGNMENT_OPERATOR:=)(SimpleName:viewer)))))))

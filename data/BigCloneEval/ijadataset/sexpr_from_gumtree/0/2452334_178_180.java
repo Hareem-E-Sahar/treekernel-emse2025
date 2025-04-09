@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:ChatChannel))(SimpleName:getChannel)(Block(ReturnStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:ChatChannel))(SimpleName:getChannel)(METHOD_INVOCATION_ARGUMENTS(SimpleName:channelID))))))))

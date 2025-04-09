@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:BigInteger))(SimpleName:getDigestInteger)(Block(ReturnStatement(ClassInstanceCreation(SimpleType(SimpleName:BigInteger))(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:dig))(SimpleName:digest))))))))

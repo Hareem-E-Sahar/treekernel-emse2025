@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:List))(SimpleName:getChannelUsers)(Block(ReturnStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:Collections))(SimpleName:unmodifiableList)(METHOD_INVOCATION_ARGUMENTS(SimpleName:channelUsers))))))))

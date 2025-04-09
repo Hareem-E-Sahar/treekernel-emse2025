@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(MarkerAnnotation(SimpleName:Override))(Modifier:public)(PrimitiveType:void)(SimpleName:run)(Block(ExpressionStatement(MethodInvocation(SimpleName:writeThread)))))))

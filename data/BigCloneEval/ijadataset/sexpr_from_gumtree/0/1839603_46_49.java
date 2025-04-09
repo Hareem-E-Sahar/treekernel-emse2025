@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(MarkerAnnotation(SimpleName:Override))(Modifier:public)(Modifier:synchronized)(PrimitiveType:void)(SimpleName:begin)(Block(ExpressionStatement(MethodInvocation(SimpleName:begin)(METHOD_INVOCATION_ARGUMENTS(QualifiedName:Mode.readwrite))))))))

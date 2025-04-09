@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:ServerSocketChannel))(SimpleName:getChannel)(Block(ReturnStatement(CastExpression(SimpleType(SimpleName:ServerSocketChannel))(SuperMethodInvocation(SimpleName:getChannel))))))))

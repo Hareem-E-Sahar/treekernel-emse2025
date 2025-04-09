@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleName:DropTargetListener)(Block(SuperConstructorInvocation(MethodInvocation(SimpleName:getDiagramGraphicalViewer))(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:LocalTransfer))(SimpleName:getInstance)))))))

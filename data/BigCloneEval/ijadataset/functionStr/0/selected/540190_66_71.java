@@ -1,0 +1,7 @@
+public class Test {    public ConcurrentEventSinkRegistry() {
+        super();
+        final ReadWriteLock readWriteLock = new ReentrantReadWriteLock();
+        m_channelEventSinkAffinityReadLock = readWriteLock.readLock();
+        m_channelEventSinkAffinityWriteLock = readWriteLock.writeLock();
+    }
+}

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:Hash))(SimpleName:finish)(Block(ExpressionStatement(Assignment(SimpleName:bytes)(ASSIGNMENT_OPERATOR:=)(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:md))(SimpleName:digest))))(ReturnStatement(ThisExpression))))))

@@ -1,0 +1,4 @@
+public class Test {    public String getChannelId() {
+        return this.channelId;
+    }
+}

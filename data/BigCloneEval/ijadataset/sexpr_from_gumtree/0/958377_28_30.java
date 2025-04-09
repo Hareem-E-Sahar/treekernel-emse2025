@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(ParameterizedType(SimpleType(SimpleName:Vector))(SimpleType(SimpleName:Integer)))(SimpleName:getChannelIndicies)(Block(ReturnStatement(QualifiedName:src.srcChannelIndicies))))))

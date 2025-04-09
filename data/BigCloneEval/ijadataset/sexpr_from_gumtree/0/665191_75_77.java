@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:Channel))(SimpleName:getChannel)(SingleVariableDeclaration(SimpleType(SimpleName:SliceNode))(SimpleName:src))(SingleVariableDeclaration(SimpleType(SimpleName:SliceNode))(SimpleName:dst))(Block(ReturnStatement(NullLiteral))))))

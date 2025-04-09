@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(MarkerAnnotation(SimpleName:Override))(Modifier:public)(PrimitiveType:double)(SimpleName:getChannel)(SingleVariableDeclaration(Modifier:final)(PrimitiveType:double)(SimpleName:energy))(Block(ReturnStatement(SimpleName:energy))))))

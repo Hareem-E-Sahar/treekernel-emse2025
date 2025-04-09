@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(ArrayType(PrimitiveType:byte)(Dimension))(SimpleName:getDigest)(Block(ReturnStatement(ParenthesizedExpression(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:md4))(SimpleName:digest))))))))

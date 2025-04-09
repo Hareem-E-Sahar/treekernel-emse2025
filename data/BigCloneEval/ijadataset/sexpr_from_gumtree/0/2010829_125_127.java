@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:private)(PrimitiveType:boolean)(SimpleName:getFileAccess)(Block(ReturnStatement(ParenthesizedExpression(InfixExpression(MethodInvocation(SimpleName:writeLocalFileAccess))(INFIX_EXPRESSION_OPERATOR:&&)(MethodInvocation(SimpleName:readRemoteFileAccess)))))))))

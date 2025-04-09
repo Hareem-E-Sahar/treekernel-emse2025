@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(Modifier:final)(PrimitiveType:int)(SimpleName:getChannel)(Block(ReturnStatement(ParenthesizedExpression(SimpleName:channel)))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(MarkerAnnotation(SimpleName:Override))(Modifier:protected)(SimpleType(SimpleName:AbstractSelectableChannel))(SimpleName:getChannel)(SimpleType(SimpleName:IOException))(Block(ReturnStatement(SimpleName:sockEmul))))))

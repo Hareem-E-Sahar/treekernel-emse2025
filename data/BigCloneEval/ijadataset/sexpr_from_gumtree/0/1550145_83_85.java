@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(PrimitiveType:void)(SimpleName:writeThreadsDump)(SimpleType(SimpleName:IOException))(Block(ExpressionStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:htmlCoreReport))(SimpleName:writeThreadsDump)))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:protected)(Modifier:final)(PrimitiveType:boolean)(SimpleName:isDesktopEnabled)(Block(ReturnStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(QualifiedName:java.awt.Desktop))(SimpleName:isDesktopSupported)))))))

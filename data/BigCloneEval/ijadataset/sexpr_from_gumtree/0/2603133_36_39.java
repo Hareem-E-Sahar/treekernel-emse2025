@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:int)(SimpleName:getChannelNumber)(Block(IfStatement(InfixExpression(ArrayAccess(SimpleName:b)(NumberLiteral:0))(INFIX_EXPRESSION_OPERATOR:==)(NumberLiteral:7))(ReturnStatement(NumberLiteral:2)))(ReturnStatement(NumberLiteral:2))))))

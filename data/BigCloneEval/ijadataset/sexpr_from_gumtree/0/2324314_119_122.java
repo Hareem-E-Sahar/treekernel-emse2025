@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(MarkerAnnotation(SimpleName:Override))(Modifier:public)(SimpleType(SimpleName:String))(SimpleName:toString)(Block(ReturnStatement(MethodInvocation(SimpleName:getChannelString)))))))

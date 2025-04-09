@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:void)(SimpleName:clear)(Block(ExpressionStatement(Assignment(SimpleName:write_index)(ASSIGNMENT_OPERATOR:=)(Assignment(SimpleName:read_index)(ASSIGNMENT_OPERATOR:=)(NumberLiteral:0))))))))

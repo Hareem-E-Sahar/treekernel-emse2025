@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:void)(SimpleName:readExifData)(Block(ExpressionStatement(MethodInvocation(SimpleName:readExifData)(METHOD_INVOCATION_ARGUMENTS(SimpleName:overwrite))))))))

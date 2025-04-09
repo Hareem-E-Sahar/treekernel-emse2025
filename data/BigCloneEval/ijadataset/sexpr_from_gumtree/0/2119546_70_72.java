@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(ParameterizedType(SimpleType(SimpleName:VGChannel))(SimpleType(SimpleName:NodeType))(SimpleType(SimpleName:PortType))(SimpleType(SimpleName:SignalType)))(SimpleName:getChannelConnLeft)(Block(ReturnStatement(SimpleName:fChannelConnLeft))))))

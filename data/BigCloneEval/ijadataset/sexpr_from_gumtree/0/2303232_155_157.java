@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:ComboBoxModel))(SimpleName:getChannelOutModel)(Block(ReturnStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(FieldAccess(ThisExpression)(SimpleName:outputList)))(SimpleName:getModel)))))))

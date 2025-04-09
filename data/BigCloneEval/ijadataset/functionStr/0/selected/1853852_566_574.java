@@ -1,0 +1,10 @@
+public class Test {    public Object getAdapter(Class type) {
+        if (type == CommandStackInspectorPage.class) return new CommandStackInspectorPage(getCommandStack());
+        if (type == IContentOutlinePage.class) {
+            outlinePage = new OutlinePage(new TreeViewer());
+            return outlinePage;
+        }
+        if (type == ZoomManager.class) return getGraphicalViewer().getProperty(ZoomManager.class.toString());
+        return super.getAdapter(type);
+    }
+}

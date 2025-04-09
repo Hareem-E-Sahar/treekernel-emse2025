@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(Initializer(Block))(MethodDeclaration(Modifier:private)(PrimitiveType:void)(SimpleName:recvMessage)(SingleVariableDeclaration(SimpleType(SimpleName:String))(SimpleName:from))(SingleVariableDeclaration(SimpleType(SimpleName:String))(SimpleName:to))(SimpleType(SimpleName:Exception)))))

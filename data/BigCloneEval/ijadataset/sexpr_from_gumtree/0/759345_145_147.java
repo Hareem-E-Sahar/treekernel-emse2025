@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:private)(PrimitiveType:long)(SimpleName:writerCheckInterval)(Block(ReturnStatement(SimpleName:writeThreadCheckInterval))))))

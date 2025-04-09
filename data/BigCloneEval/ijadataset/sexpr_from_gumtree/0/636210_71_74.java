@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:int)(SimpleName:getChannels)(Block(IfStatement(InfixExpression(SimpleName:intMode)(INFIX_EXPRESSION_OPERATOR:==)(NumberLiteral:3))(ReturnStatement(NumberLiteral:1)))(ReturnStatement(NumberLiteral:2))))))

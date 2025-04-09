@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:static)(SimpleType(SimpleName:Thread))(SimpleName:getWriteThread)(SingleVariableDeclaration(SimpleType(SimpleName:NetworkManager))(SimpleName:par0NetworkManager))(Block(ReturnStatement(QualifiedName:par0NetworkManager.writeThread))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:IGenericChannelTemplate))(SimpleName:getChannelTemplate)(SimpleType(SimpleName:XAwareException))(Block(ReturnStatement(NullLiteral))))))

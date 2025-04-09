@@ -1,0 +1,6 @@
+public class Test {    public BaseXmlProcessor(XMLStreamReader reader, XMLStreamWriter writer, OutputStream underlayingOutputStream) {
+        this.reader = reader;
+        this.writer = writer;
+        this.underlayingOutputStream = underlayingOutputStream;
+    }
+}

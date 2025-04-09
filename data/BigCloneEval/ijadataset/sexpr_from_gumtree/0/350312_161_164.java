@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:int)(SimpleName:peek)(Block(AssertStatement(InfixExpression(SimpleName:read)(INFIX_EXPRESSION_OPERATOR:<)(SimpleName:write)))(ReturnStatement(ArrayAccess(SimpleName:array)(SimpleName:read)))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(MarkerAnnotation(SimpleName:Override))(Modifier:public)(PrimitiveType:int)(SimpleName:getChannelPressure)(Block(ThrowStatement(ClassInstanceCreation(SimpleType(SimpleName:UnsupportedOperationException))(StringLiteral:<STR>)))))))

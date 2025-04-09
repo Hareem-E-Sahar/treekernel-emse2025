@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:private)(SimpleName:ConcreteSingleThreadOverwriteConflictsIterativeFileManager)(Block(ExpressionStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(ThisExpression))(SimpleName:setAlgorithm)(METHOD_INVOCATION_ARGUMENTS(StringLiteral:<STR>))))))))

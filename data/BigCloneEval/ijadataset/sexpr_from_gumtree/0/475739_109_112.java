@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:int)(SimpleName:getChannels)(Block(IfStatement(InfixExpression(MethodInvocation(SimpleName:getMode))(INFIX_EXPRESSION_OPERATOR:!=)(SimpleName:MPEG_MODE_MONO))(ReturnStatement(NumberLiteral:2)))(ReturnStatement(NumberLiteral:1))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(ParameterizedType(SimpleType(SimpleName:List))(SimpleType(QualifiedName:MySequencer.Data)))(SimpleName:getChannelData)(Block(ReturnStatement(SimpleName:channelData))))))

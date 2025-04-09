@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:private)(SimpleType(SimpleName:ChannelBuilderIF))(SimpleName:getChannelBuilder)(Block(ReturnStatement(SimpleName:channelBuilder))))))

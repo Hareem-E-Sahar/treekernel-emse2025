@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(ParameterizedType(SimpleType(SimpleName:HashMap))(SimpleType(SimpleName:String))(SimpleType(SimpleName:StripChannelGroup)))(SimpleName:getChannelGroupMap)(Block(ReturnStatement(SimpleName:channelGroupMap))))))

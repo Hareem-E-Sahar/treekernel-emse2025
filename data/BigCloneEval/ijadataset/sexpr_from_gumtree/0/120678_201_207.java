@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:void)(SimpleName:close)(Block(IfStatement(SimpleName:_read_write)(Block(ExpressionStatement(MethodInvocation(SimpleName:closeWrite))))(Block(ExpressionStatement(MethodInvocation(SimpleName:closeRead)))))))))

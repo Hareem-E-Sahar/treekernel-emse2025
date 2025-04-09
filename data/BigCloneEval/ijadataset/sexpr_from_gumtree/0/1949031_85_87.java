@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:protected)(SimpleType(SimpleName:Channel))(SimpleName:getChannel1)(Block(ReturnStatement(SimpleName:BPM1Channel))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(QualifiedName:javax.swing.JTextArea))(SimpleName:getChannelDescriptionBox)(Block(ReturnStatement(SimpleName:channelDescriptionBox))))))

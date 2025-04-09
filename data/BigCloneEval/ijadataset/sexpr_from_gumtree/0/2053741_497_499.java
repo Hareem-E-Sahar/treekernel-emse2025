@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:protected)(PrimitiveType:int)(SimpleName:getChannelIndex)(Block(ReturnStatement(MethodInvocation(SimpleName:getChannelIndex)(METHOD_INVOCATION_ARGUMENTS(SimpleName:imageChannel))))))))

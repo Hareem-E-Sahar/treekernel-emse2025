@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:Recipient))(SimpleName:replyRecipient)(Block(ReturnStatement(ClassInstanceCreation(SimpleType(SimpleName:IRCChannelRecipient))(SimpleName:generatedBy)(MethodInvocation(SimpleName:getChannel))))))))

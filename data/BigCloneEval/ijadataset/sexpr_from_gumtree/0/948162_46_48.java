@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(QualifiedName:CommonBasicComponents_2.xsd.schema.ubl.specification.names.oasis.ChannelType))(SimpleName:getChannel)(Block(ReturnStatement(SimpleName:channel))))))

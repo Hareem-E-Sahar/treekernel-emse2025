@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:protected)(PrimitiveType:int)(SimpleName:available)(Block(ReturnStatement(InfixExpression(SimpleName:i_writeOffset)(INFIX_EXPRESSION_OPERATOR:-)(SimpleName:i_readOffset)))))))

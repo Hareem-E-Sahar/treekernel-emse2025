@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:void)(SimpleName:collectReports)(SingleVariableDeclaration(SimpleType(SimpleName:ReportReader))(SimpleName:reader))(SingleVariableDeclaration(SimpleType(SimpleName:ReportWriter))(SimpleName:writer))(Block))))

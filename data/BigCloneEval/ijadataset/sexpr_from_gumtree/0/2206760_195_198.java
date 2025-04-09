@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(MarkerAnnotation(SimpleName:Override))(Modifier:public)(ParameterizedType(SimpleType(SimpleName:DataChannel))(WildcardType))(SimpleName:getChannel)(Block(ReturnStatement(NullLiteral))))))

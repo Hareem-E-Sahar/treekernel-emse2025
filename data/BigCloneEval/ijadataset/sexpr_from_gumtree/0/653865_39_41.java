@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleName:Frame)(SingleVariableDeclaration(PrimitiveType:boolean)(SimpleName:read_write))(Block(ConstructorInvocation(SimpleName:read_write)(BooleanLiteral:true))))))

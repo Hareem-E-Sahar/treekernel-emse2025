@@ -1,0 +1,9 @@
+public class Test {            public void actionPerformed(ActionEvent ae) {
+                String targetFile = Utils.selectFile("Save file as", fNode.getName(), (JFrame) Main.getUI());
+                try {
+                    FileUtils.copyFile(fNode.getLocalURL(), new File(targetFile));
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+}

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:IChannelDAO))(SimpleName:getChannelDAO)(Block(ReturnStatement(SimpleName:channelDAO))))))

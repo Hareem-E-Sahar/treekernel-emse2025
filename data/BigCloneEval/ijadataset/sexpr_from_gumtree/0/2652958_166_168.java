@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:int)(SimpleName:getTargetChannelBitRate)(Block(ReturnStatement(ParenthesizedExpression(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:target_channel_bit_rate))(SimpleName:intValue))))))))

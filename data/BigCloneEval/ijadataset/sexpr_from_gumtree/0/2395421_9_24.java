@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(MarkerAnnotation(SimpleName:version))(MarkerAnnotation(SimpleName:author))(SimpleType(SimpleName:Alan))(SimpleName:Willamson))))

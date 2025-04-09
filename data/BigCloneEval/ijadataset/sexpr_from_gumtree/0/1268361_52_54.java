@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:byte)(SimpleName:getChannel)(Block(ReturnStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(FieldAccess(ThisExpression)(SimpleName:raw)))(SimpleName:getByte)(METHOD_INVOCATION_ARGUMENTS(NumberLiteral:0))))))))

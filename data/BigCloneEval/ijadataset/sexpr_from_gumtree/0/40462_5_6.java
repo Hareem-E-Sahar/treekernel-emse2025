@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:void)(SimpleName:writeMessage)(SingleVariableDeclaration(SimpleType(SimpleName:String))(SimpleName:threadName))(SingleVariableDeclaration(SimpleType(SimpleName:String))(SimpleName:message))(Block))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:protected)(PrimitiveType:int)(SimpleName:getChannelNumber)(Block(ReturnStatement(SimpleName:myChannels))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:int)(SimpleName:getChannelCount)(Block(ReturnStatement(CastExpression(SimpleType(SimpleName:Integer))(MethodInvocation(SimpleName:readField)(METHOD_INVOCATION_ARGUMENTS(StringLiteral:<STR>)))))))))

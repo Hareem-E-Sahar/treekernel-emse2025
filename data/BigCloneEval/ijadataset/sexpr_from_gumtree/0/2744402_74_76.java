@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(Modifier:final)(SimpleType(SimpleName:String))(SimpleName:getChannelName)(Block(ReturnStatement(ParenthesizedExpression(SimpleName:channelName)))))))

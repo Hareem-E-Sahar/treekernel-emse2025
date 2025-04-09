@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(SimpleType(SimpleName:SocketChannel))(SimpleName:getChannel)(Block(ReturnStatement(SimpleName:m_channel))))))

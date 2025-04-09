@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:MidiChannelReader))(SimpleName:getChannelReader)(SingleVariableDeclaration(PrimitiveType:int)(SimpleName:chan))(Block(ReturnStatement(ArrayAccess(SimpleName:decoders)(SimpleName:chan)))))))

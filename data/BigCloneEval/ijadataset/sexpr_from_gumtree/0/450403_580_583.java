@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(MarkerAnnotation(SimpleName:Override))(Modifier:public)(SimpleType(SimpleName:SocketChannel))(SimpleName:getChannel)(Block(ReturnStatement(SimpleName:channel))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:BayeuxChannel))(SimpleName:getChannel)(SingleVariableDeclaration(SimpleType(SimpleName:String))(SimpleName:name))(SingleVariableDeclaration(PrimitiveType:boolean)(SimpleName:create))(Block(ReturnStatement(NullLiteral))))))

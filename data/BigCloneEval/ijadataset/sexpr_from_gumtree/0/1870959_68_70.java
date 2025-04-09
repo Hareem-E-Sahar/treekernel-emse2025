@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:private)(PrimitiveType:void)(SimpleName:initData)(Block(ExpressionStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:NetWorkManager))(SimpleName:getChannelList)(METHOD_INVOCATION_ARGUMENTS(ThisExpression))))))))

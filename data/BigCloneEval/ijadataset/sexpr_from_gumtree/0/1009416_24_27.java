@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(MarkerAnnotation(SimpleName:Override))(Modifier:public)(SimpleType(QualifiedName:java.nio.channels.ReadableByteChannel))(SimpleName:getChannel)(SimpleType(SimpleName:IOException))(Block(ReturnStatement(NullLiteral))))))

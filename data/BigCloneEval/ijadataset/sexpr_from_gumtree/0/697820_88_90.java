@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:SelectChannelConnector))(SimpleName:getChannelConnector)(Block(ReturnStatement(SimpleName:connector))))))

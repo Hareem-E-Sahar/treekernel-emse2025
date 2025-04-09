@@ -1,0 +1,4 @@
+public class Test {    public static Reader interruptibleReader(RandomAccessFile f_in, String csName) {
+        return Channels.newReader(f_in.getChannel(), csName);
+    }
+}

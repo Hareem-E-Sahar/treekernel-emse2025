@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(PrimitiveType:void)(SimpleName:doRetransmitAll)(Block(ExpressionStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(MethodInvocation(SimpleName:getChannel)))(SimpleName:retransmitAll)))))))

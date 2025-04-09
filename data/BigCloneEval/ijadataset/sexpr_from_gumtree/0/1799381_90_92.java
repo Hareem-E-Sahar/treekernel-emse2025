@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:Query))(SimpleName:rewrite)(SingleVariableDeclaration(SimpleType(SimpleName:IndexReader))(SimpleName:reader))(SimpleType(SimpleName:IOException))(Block(ReturnStatement(ThisExpression))))))

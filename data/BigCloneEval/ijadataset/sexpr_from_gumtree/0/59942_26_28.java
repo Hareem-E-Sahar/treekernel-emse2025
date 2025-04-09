@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:boolean)(SimpleName:isReadAvailable)(Block(ReturnStatement(ParenthesizedExpression(InfixExpression(SimpleName:readIndex)(INFIX_EXPRESSION_OPERATOR:<)(SimpleName:writeIndex))))))))

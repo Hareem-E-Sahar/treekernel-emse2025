@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(ParameterizedType(SimpleType(QualifiedName:java.util.Set))(SimpleType(QualifiedName:com.bocoon.entity.cms.main.Channel)))(SimpleName:getChannels)(Block(ReturnStatement(SimpleName:channels))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(SimpleName:AcroFieldsExtended)(SingleVariableDeclaration(SimpleType(SimpleName:PdfReader))(SimpleName:reader))(SingleVariableDeclaration(SimpleType(SimpleName:PdfWriter))(SimpleName:writer))(Block(SuperConstructorInvocation(SimpleName:reader)(SimpleName:writer))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(MarkerAnnotation(SimpleName:Override))(Modifier:public)(Modifier:final)(PrimitiveType:int)(SimpleName:getChannelCount)(Block(ReturnStatement(SimpleName:CHANNEL_COUNT))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:int)(SimpleName:getChannelMode)(SingleVariableDeclaration(PrimitiveType:int)(SimpleName:channelNumber))(Block(ReturnStatement(FieldAccess(ArrayAccess(SimpleName:dmaRegs)(SimpleName:channelNumber))(SimpleName:mode)))))))

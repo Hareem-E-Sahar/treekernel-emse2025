@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:void)(SimpleName:generate)(SingleVariableDeclaration(SimpleType(SimpleName:IndentWriter))(SimpleName:writer))(Block(ExpressionStatement(MethodInvocation(SimpleName:dumpThreads)(METHOD_INVOCATION_ARGUMENTS(SimpleName:writer))))))))

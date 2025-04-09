@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:boolean)(SimpleName:evaluate)(SingleVariableDeclaration(SimpleType(SimpleName:Integer))(SimpleName:object))(Block(ReturnStatement(MethodInvocation(SimpleName:palindrome)(METHOD_INVOCATION_ARGUMENTS(SimpleName:object))))))))

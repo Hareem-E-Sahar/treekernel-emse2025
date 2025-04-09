@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:boolean)(SimpleName:isEmpty)(Block(ReturnStatement(InfixExpression(SimpleName:writeIndex)(INFIX_EXPRESSION_OPERATOR:==)(SimpleName:readIndex)))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:protected)(PrimitiveType:boolean)(SimpleName:writeToFile)(SingleVariableDeclaration(SimpleType(SimpleName:File))(SimpleName:file))(Block(ThrowStatement(ClassInstanceCreation(SimpleType(SimpleName:RuntimeException))(StringLiteral:<STR>)))))))

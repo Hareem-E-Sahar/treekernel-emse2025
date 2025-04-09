@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(Modifier:static)(PrimitiveType:int)(SimpleName:getChannel)(SingleVariableDeclaration(PrimitiveType:int)(SimpleName:status))(Block(ReturnStatement(InfixExpression(SimpleName:status)(INFIX_EXPRESSION_OPERATOR:&)(NumberLiteral:0x0f)))))))

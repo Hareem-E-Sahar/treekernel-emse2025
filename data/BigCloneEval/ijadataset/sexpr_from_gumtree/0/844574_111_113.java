@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:boolean)(SimpleName:remove)(Block(ReturnStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:_bayeux))(SimpleName:removeChannel)(METHOD_INVOCATION_ARGUMENTS(MethodInvocation(SimpleName:getChannelId)))))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(SimpleType(SimpleName:InputStream))(SimpleName:getStream)(SimpleType(SimpleName:IOException))(Block(ReturnStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:url))(SimpleName:openStream)))))))

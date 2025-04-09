@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(Modifier:synchronized)(PrimitiveType:int)(SimpleName:getChannels)(Block(ReturnStatement(FieldAccess(ThisExpression)(SimpleName:channels)))))))

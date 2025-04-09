@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(Modifier:final)(PrimitiveType:int)(SimpleName:getChannelFilter)(Block(ReturnStatement(ParenthesizedExpression(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:logHandler))(SimpleName:getChannelFilter))))))))

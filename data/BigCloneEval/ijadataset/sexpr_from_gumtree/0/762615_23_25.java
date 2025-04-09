@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:protected)(PrimitiveType:void)(SimpleName:setUp)(SimpleType(SimpleName:Exception))(Block(ExpressionStatement(Assignment(FieldAccess(ThisExpression)(SimpleName:date))(ASSIGNMENT_OPERATOR:=)(ClassInstanceCreation(SimpleType(SimpleName:Date)))))))))

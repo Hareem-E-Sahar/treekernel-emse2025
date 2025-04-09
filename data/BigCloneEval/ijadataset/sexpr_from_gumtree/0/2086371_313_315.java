@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:synchronized)(PrimitiveType:int)(SimpleName:getWriteHoldCount)(Block(ReturnStatement(ConditionalExpression(MethodInvocation(SimpleName:isWriteLockedByCurrentThread))(SimpleName:writeHolds_)(NumberLiteral:0)))))))

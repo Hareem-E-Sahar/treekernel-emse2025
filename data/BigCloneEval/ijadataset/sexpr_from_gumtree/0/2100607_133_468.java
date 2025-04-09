@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:static)(Modifier:synchronized)(SimpleType(SimpleName:Person))(SimpleName:lookup)(SingleVariableDeclaration(SimpleType(SimpleName:PhoneNumber))(SimpleName:number))(SingleVariableDeclaration(SimpleType(SimpleName:String))(SimpleName:siteName))(Block))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleName:RulerEditPartFactory)(SingleVariableDeclaration(SimpleType(SimpleName:GraphicalViewer))(SimpleName:primaryViewer))(Block(ExpressionStatement(Assignment(SimpleName:diagramViewer)(ASSIGNMENT_OPERATOR:=)(SimpleName:primaryViewer)))))))

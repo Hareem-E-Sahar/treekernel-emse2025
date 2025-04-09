@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:File))(SimpleName:getChannelsDirectory)(Block(ReturnStatement(ClassInstanceCreation(SimpleType(SimpleName:File))(SimpleName:location)(StringLiteral:<STR>)))))))

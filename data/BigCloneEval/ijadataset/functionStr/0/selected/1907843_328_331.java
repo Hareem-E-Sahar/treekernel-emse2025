@@ -1,0 +1,5 @@
+public class Test {    public boolean isChannelPlotting(final int index) {
+        final ChannelWrapper wrapper = getChannelWrapper(index);
+        return wrapper != null ? wrapper.isPlotting() : false;
+    }
+}

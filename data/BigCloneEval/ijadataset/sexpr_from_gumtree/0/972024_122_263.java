@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(Initializer(Block))(MethodDeclaration(Modifier:public)(PrimitiveType:void)(SimpleName:doProjections)(SingleVariableDeclaration(SimpleType(SimpleName:ImagePlus))(SimpleName:imp)))))

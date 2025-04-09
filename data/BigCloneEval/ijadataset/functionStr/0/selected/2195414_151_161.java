@@ -1,0 +1,12 @@
+public class Test {    public void onOpenDocument(PdfWriter writer, Document document) {
+        try {
+            PdfReader reader = new PdfReader("template.pdf");
+            paper = writer.getImportedPage(reader, 1);
+            not_printed = new PdfLayer("template", writer);
+            not_printed.setOnPanel(false);
+            not_printed.setPrint("Print", false);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+}

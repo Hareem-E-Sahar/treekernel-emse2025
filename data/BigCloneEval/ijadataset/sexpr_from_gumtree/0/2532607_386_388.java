@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleName:RequestThread)(SingleVariableDeclaration(SimpleType(SimpleName:Writer))(SimpleName:writer))(Block(ExpressionStatement(Assignment(SimpleName:out)(ASSIGNMENT_OPERATOR:=)(SimpleName:writer)))))))

@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:ConsoleChannel))(SimpleName:getChannel)(SingleVariableDeclaration(PrimitiveType:int)(SimpleName:x))(Block(ReturnStatement(MethodInvocation(SimpleName:getChan)(METHOD_INVOCATION_ARGUMENTS(SimpleName:x))))))))

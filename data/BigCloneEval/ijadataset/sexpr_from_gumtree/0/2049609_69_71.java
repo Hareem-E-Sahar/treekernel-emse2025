@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(Modifier:static)(PrimitiveType:int)(SimpleName:getDeviceId)(SingleVariableDeclaration(SimpleType(SimpleName:MidiMessage))(SimpleName:msg))(Block(ReturnStatement(MethodInvocation(SimpleName:getChannel)(METHOD_INVOCATION_ARGUMENTS(SimpleName:msg))))))))

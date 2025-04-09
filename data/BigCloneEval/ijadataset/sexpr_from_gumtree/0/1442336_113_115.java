@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(Modifier:final)(SimpleType(SimpleName:CharSequence))(SimpleName:getUnsuscribeScript)(Block(ReturnStatement(InfixExpression(StringLiteral:<STR>)(INFIX_EXPRESSION_OPERATOR:+)(MethodInvocation(SimpleName:getChannelId))(StringLiteral:<STR>)))))))

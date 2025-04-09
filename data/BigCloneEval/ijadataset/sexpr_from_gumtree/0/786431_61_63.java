@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:protected)(ParameterizedType(SimpleType(SimpleName:Map))(SimpleType(SimpleName:ChannelEventType))(SimpleType(SimpleName:Method)))(SimpleName:getChannelMap)(Block(ReturnStatement(SimpleName:channelMap))))))

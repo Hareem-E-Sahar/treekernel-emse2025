@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:RTPDataChannel))(SimpleName:getChannel)(SimpleType(SimpleName:IOException))(Block(ReturnStatement(ClassInstanceCreation(SimpleType(SimpleName:RTPDataChannel))(ThisExpression)))))))

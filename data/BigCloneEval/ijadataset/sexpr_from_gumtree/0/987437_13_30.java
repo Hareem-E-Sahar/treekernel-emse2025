@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(Initializer(Block))(MethodDeclaration(Javadoc(TagElement(TextElement:Checkthattheserverisreturningthecorrecterrorwhentryingtologinusinganinvalid)(TextElement:(i.e.non-existent)user.)))(Modifier:public)(PrimitiveType:void)(SimpleName:testInvalidLogin))))

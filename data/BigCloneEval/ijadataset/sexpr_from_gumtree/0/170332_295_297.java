@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(FieldDeclaration(SimpleType(SimpleName:DateTime))(VariableDeclarationFragment(SimpleName:srchtm)(CastExpression(SimpleType(SimpleName:DateTime))(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:sectionTime))(SimpleName:clone)))))))

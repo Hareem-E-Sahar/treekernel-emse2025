@@ -1,0 +1,6 @@
+public class Test {    @Override
+    public void unRegister() {
+        AppContext.getDataManager().removeObject(AppContext.getChannelManager().getChannel(chatPrefix + getName()));
+        super.unRegister();
+    }
+}

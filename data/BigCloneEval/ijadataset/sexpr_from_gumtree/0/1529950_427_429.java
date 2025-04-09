@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(QualifiedName:java.lang.String))(SimpleName:getChannelUrl)(Block(ReturnStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:ChannelUrl))(SimpleName:createUrl)(METHOD_INVOCATION_ARGUMENTS(ThisExpression))))))))

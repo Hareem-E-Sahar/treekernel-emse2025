@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:int)(SimpleName:getChannelPressure)(Block(SynchronizedStatement(SimpleName:control_mutex)(Block(ReturnStatement(SimpleName:channelpressure))))))))

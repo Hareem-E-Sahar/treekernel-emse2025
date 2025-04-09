@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(MarkerAnnotation(SimpleName:Override))(SimpleType(SimpleName:SelectableChannel))(SimpleName:getChannel)(Block(AssertStatement(MethodInvocation(SimpleName:isTransportLayerThread)))(ReturnStatement(SimpleName:channel_))))))

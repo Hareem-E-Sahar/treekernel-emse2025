@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(Modifier:final)(PrimitiveType:int)(SimpleName:getChannel)(Block(ReturnStatement(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:prefs))(SimpleName:getInt)(METHOD_INVOCATION_ARGUMENTS(StringLiteral:<STR>)(NumberLiteral:1))))))))

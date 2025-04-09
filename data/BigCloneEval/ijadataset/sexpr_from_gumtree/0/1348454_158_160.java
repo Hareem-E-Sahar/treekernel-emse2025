@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:L2PcInstance))(SimpleName:getChannelLeader)(Block(ReturnStatement(SimpleName:_commandLeader))))))

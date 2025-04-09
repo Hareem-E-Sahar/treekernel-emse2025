@@ -1,0 +1,7 @@
+public class Test {        public String getChannelKey(User user) throws ObjectNotFoundException {
+            if (checkPerms(user) && _chanKey != null) {
+                return _chanKey;
+            }
+            throw new ObjectNotFoundException("No Permissions");
+        }
+}

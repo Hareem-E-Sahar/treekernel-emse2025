@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:BigInteger))(SimpleName:calculateHashSum)(Block(ReturnStatement(ClassInstanceCreation(SimpleType(SimpleName:BigInteger))(NumberLiteral:1)(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:digest))(SimpleName:digest))))))))

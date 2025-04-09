@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(QualifiedName:com.jeecms.cms.entity.CmsChannel))(SimpleName:getChannel)(Block(ReturnStatement(SimpleName:channel))))))

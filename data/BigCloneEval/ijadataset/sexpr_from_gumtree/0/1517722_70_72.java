@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(ParameterizedType(SimpleType(SimpleName:Key))(SimpleType(SimpleName:Channel)))(SimpleName:getChannel)(Block(ReturnStatement(SimpleName:channel))))))

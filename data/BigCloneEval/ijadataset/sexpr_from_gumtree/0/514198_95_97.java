@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(PrimitiveType:int)(SimpleName:getChannelOffset)(SingleVariableDeclaration(PrimitiveType:int)(SimpleName:channel))(Block(ReturnStatement(NumberLiteral:0))))))

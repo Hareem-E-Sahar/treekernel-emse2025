@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:protected)(SimpleType(SimpleName:ProxyChannel))(SimpleName:getProxyChannel)(Block(ReturnStatement(CastExpression(SimpleType(SimpleName:ProxyChannel))(MethodInvocation(SimpleName:getChannel))))))))

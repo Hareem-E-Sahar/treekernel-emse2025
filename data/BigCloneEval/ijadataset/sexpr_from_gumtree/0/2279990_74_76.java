@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:HashWrapper))(SimpleName:getHash)(Block(ReturnStatement(ClassInstanceCreation(SimpleType(SimpleName:HashWrapper))(MethodInvocation(METHOD_INVOCATION_RECEIVER(SimpleName:sha1))(SimpleName:digest))))))))

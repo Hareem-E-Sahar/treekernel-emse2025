@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:protected)(SimpleType(SimpleName:FileChannel))(SimpleName:getChannel)(Block(ReturnStatement(FieldAccess(ThisExpression)(SimpleName:channel)))))))

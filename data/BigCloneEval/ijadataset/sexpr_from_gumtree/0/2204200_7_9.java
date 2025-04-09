@@ -1,0 +1,1 @@
+(CompilationUnit(TypeDeclaration(Modifier:public)(TYPE_DECLARATION_KIND:class)(SimpleName:Test)(MethodDeclaration(Modifier:public)(SimpleType(SimpleName:IRCChannel))(SimpleName:getChannel)(Block(ReturnStatement(CastExpression(SimpleType(SimpleName:IRCChannel))(MethodInvocation(SimpleName:getRoom))))))))
