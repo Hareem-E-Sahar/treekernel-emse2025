@@ -27,7 +27,7 @@ cd treekernel-emse2025
 
 ## Step 2: Explore the Contents
 
-### `data/` Directory
+### `data/` directory
 
 This folder includes the **BigCloneBench** dataset and derived artifacts:
 
@@ -40,7 +40,7 @@ This folder includes the **BigCloneBench** dataset and derived artifacts:
 
 ---
 
-### `code/` Directory
+### `code/` directory
 
 This directory contains all code for reproducing the results.
 
@@ -101,7 +101,7 @@ mvn exec:java -Dexec.mainClass="sample.evaluation.elasticsearch.ElasticsearchBig
 
 ---
 
-### RQ2: Clone Type Analysis
+### RQ2: Syntactic Type Analysis
 
 ```bash
 cd code/kelp-full
@@ -137,7 +137,7 @@ mvn exec:java -Dexec.mainClass="sample.evaluation.eskelp.ElasticsearchKelp"
 
 ---
 
-## `results/` Directory
+## `results/` directory
 
 This folder contains the output results and metrics from the experiments, including accuracy scores, runtime, and evaluation logs. These can be used to verify the findings reported in the paper.
 
