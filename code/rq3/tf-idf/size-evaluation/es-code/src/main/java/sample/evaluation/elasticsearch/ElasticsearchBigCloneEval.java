@@ -47,7 +47,7 @@ public class ElasticsearchBigCloneEval {
  		int functionality  = 0;  
  		float threshold    = 0; //threshold is not relevant for TF-IDF;
  		String technique   = "elasticsearch_evaluation_random_sample_RQ3";
- 		String funSize       = "Less"; //More
+ 		String funSize     = "Less"; //More
  		
  		String userhome  = System.getProperty("user.home");
 		String mainDir   = userhome + "/treekernel-emse2025/";

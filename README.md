@@ -68,7 +68,7 @@ cd elasticsearch-x.x.x/bin
 Ensure it remains running before starting the relevant experiments.
 
 ### 2. Index data into Elasticsearch
-- You need to index the code fragments into Elasticsearch for RQ1 baseline and RQ4 hybrid model.
+- You need to index the code fragments into Elasticsearch for all baseline experiments involving a TF-IDF model e.g., RQ1 baseline, RQ3 baseline, and RQ4 hybrid model.
 
 - To do this, navigate to the `./code/rq4/hybrid/src/main/java/sample/evaluation/elasticsearch` directory and run:
 
@@ -81,7 +81,7 @@ mvn exec:java -Dexec.mainClass="sample.evaluation.elasticsearch.ESFileIndexer"
 
 ## Running the Experiments
 
-### RQ1: Tree Kernel vs TF-IDF Baseline
+### RQ1: Tree Kernel vs TF-IDF Baseline (Requires Elasticsearch Server Running)
 
 **Tree Kernel Evaluation**
 
@@ -117,7 +117,7 @@ mvn exec:java -Dexec.mainClass="sample.evaluation.kelp.TKBigCloneEval"
 
 ---
 
-### RQ3: Code Complexity and Size Analysis
+### RQ3: Code Complexity and Size based Evaluation
 
 ```bash
 cd code/kelp-full
@@ -127,7 +127,7 @@ mvn exec:java -Dexec.mainClass="sample.evaluation.kelp.TKBigCloneEval"
 
 ---
 
-### RQ4: Hybrid Tree Kernel + TF-IDF Model (Requires Elasticsearch Server Running)
+### RQ4: Hybrid Model Evaluation
 
 ```bash
 cd code/rq4/hybrid
