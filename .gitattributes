@@ -1,2 +1,5 @@
 /home/hareem/treekernel-emse2025/data/TestH2Database/bigclonedb_clones_alldir_8584153.txt filter=lfs diff=lfs merge=lfs -text
 data/TestH2Database/bigclonedb_clones_alldir_8584153.txt filter=lfs diff=lfs merge=lfs -text
+/home/hareem/treekernel-emse2025/data/BigCloneEval/bigclone_groundtruth_v3/T3-clones-selected-columns.txt filter=lfs diff=lfs merge=lfs -text
+T3-clones-selected-columns filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
