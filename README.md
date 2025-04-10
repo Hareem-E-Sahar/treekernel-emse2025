@@ -34,8 +34,7 @@ This folder includes the **BigCloneBench** dataset and derived artifacts:
 - `bcb_reduced/` – Java source files used as the base for the benchmark.
 - `functionStr/` – Extracted methods/code fragments, parsed into ASTs using the [GumTree library](https://github.com/GumTreeDiff/gumtree).
 - `sexpr_from_gumtree/` – ASTs in S-expression format for tree kernel consumption.
-- `TestH2Database/` – Ground truth clone pairs stored in `bigclonedb_clones_alldir_8584153.txt`.
-> You can also download the ground truth file [here](https://drive.google.com/file/d/1YDqDXROq5bmaSJnES9Coh0H3vCul7xuw/view?usp=sharing).
+- `TestH2Database/` – Ground truth clone pairs stored in `bigclonedb_clones_alldir_8584153.txt`. Alternatively you can  download the ground truth file [here](https://drive.google.com/file/d/15N9kWtV4TMe-uxXcH0doi1Bbn3vbllbX/view?usp=sharing).
 
 - `checkstyle_complexity_all.csv` – McCabe’s Cyclomatic Complexity scores, computed using [Checkstyle](https://checkstyle.sourceforge.io/checks/metrics/cyclomaticcomplexity.html).
 
