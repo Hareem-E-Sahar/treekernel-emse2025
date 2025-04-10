@@ -1,0 +1,11 @@
+Prec@5,Prec@10,MRR,MAP,technique,functionality,time,seed
+0.6856883,0.6403985,0.908457,0.080143645,elasticsearch_evaluation_random_sample,0,14,6251
+0.64734846,0.6234848,0.88801116,0.08375448,elasticsearch_evaluation_random_sample,0,4,9080
+0.729293,0.7186467,0.89842796,0.09113933,elasticsearch_evaluation_random_sample,0,14,8241
+0.788421,0.77078944,0.9636016,0.12812614,elasticsearch_evaluation_random_sample,0,13,8828
+0.7043334,0.6896668,0.8678683,0.110854104,elasticsearch_evaluation_random_sample,0,6,55
+0.7306396,0.702854,0.9117799,0.09633866,elasticsearch_evaluation_random_sample,0,4,2084
+0.73466676,0.70466673,0.89865047,0.0893134,elasticsearch_evaluation_random_sample,0,12,1375
+0.79528624,0.76094294,0.91706777,0.11119504,elasticsearch_evaluation_random_sample,0,12,2802
+0.72070724,0.6809765,0.93165404,0.09889932,elasticsearch_evaluation_random_sample,0,4,3501
+0.6942529,0.67129177,0.9148505,0.085693486,elasticsearch_evaluation_random_sample,0,4,3389
