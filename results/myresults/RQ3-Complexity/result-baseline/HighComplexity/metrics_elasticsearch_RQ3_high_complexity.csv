@@ -1,0 +1,11 @@
+Prec@5,Prec@10,MRR,MAP,technique,functionality,time,seed,kernel
+0.6063334,0.568746,0.913231,0.06816866,elasticsearch_evaluation_random_sample_RQ3,0,6,6251,TFIDF
+0.57883334,0.51672614,0.9024854,0.033627197,elasticsearch_evaluation_random_sample_RQ3,0,8,9080,TFIDF
+0.59200007,0.5692223,0.8731259,0.052163973,elasticsearch_evaluation_random_sample_RQ3,0,4,8241,TFIDF
+0.6195,0.6028572,0.9219193,0.06688857,elasticsearch_evaluation_random_sample_RQ3,0,3,8828,TFIDF
+0.60816664,0.5623214,0.8997369,0.061344463,elasticsearch_evaluation_random_sample_RQ3,0,12,55,TFIDF
+0.5063334,0.46519053,0.8591775,0.03518736,elasticsearch_evaluation_random_sample_RQ3,0,8,2084,TFIDF
+0.586,0.5558215,0.8828837,0.06022812,elasticsearch_evaluation_random_sample_RQ3,0,3,1375,TFIDF
+0.55366665,0.5220476,0.8943079,0.051343642,elasticsearch_evaluation_random_sample_RQ3,0,3,2802,TFIDF
+0.64933336,0.6112183,0.88716155,0.070970476,elasticsearch_evaluation_random_sample_RQ3,0,12,3501,TFIDF
+0.541,0.50812304,0.8934931,0.066736564,elasticsearch_evaluation_random_sample_RQ3,0,3,3389,TFIDF
